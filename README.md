@@ -9,18 +9,18 @@ E-MAIL: <a href="neirinkp@wayne.edu">neirinkp@wayne.edu</a><br>
 <table border="0" cellspacing="0" cellpadding="0" width="639">
   <tr>
 	<td width="263" valign="top"><p>•   <strong>Training &amp; Team building </strong></p></td>
-    <td width="240" valign="top"><p>•	<strong>Digital content management </strong></p></td>
-    <td width="137" valign="top"><p>•	<strong>Collection description </strong></p></td>
+    <td width="240" valign="top"><p>•	<strong>Project management &amp; Supervision</strong></p></td>
+    <td width="137" valign="top"><p>•	<strong>Reference services </strong></p></td>
   </tr>
   <tr>
-    <td width="263" valign="top"><p>•	<strong>Reference services </strong></p></td>
-    <td width="240" valign="top"><p>•	<strong>Project management &amp; Supervision </strong></p></td>
+    <td width="263" valign="top"><p>•	<strong>Collection description &amp; Metadata</strong></p></td>
+    <td width="240" valign="top"><p>•	<strong>Digital content management </strong></p></td>
     <td width="137" valign="top"><p>•	<strong>HTML / CSS </strong></p></td>
   </tr>
   <tr>
     <td width="263" valign="top"><p>•	<strong>Information literacy instruction </strong></p></td>
-    <td width="240" valign="top"><p>•	<strong>System/Database administration </strong></p></td>
-    <td width="137" valign="top"><p>•	<strong>XML / EAD </strong></p></td>
+    <td width="240" valign="top"><p>•	<strong>System &amp; Database administration </strong></p></td>
+    <td width="137" valign="top"><p>•	<strong>ArchivesSpace &amp; Archivematica</strong></p></td>
   </tr>
 </table>
 <h1>EMPLOYMENT </h1>
