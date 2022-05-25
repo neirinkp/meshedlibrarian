@@ -1,3 +1,3 @@
 # neirinkp.github.io
-Personal website for Paul S. Neirink
+Personal website for Paul S. Neirink —
 Soon to be developed
