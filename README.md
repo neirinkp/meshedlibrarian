@@ -1,6 +1,4 @@
-# neirinkp.github.io
-
-<h1>PAUL S. NEIRINK</h1>
+# PAUL S. NEIRINK
 460 W. Canfield Street APT 204 Detroit, MI 48201<br>
 MOBILE: 517.896.0012 <br>
 E-MAIL: <a href="neirinkp@wayne.edu">neirinkp@wayne.edu</a><br>
