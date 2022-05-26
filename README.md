@@ -1,26 +1,23 @@
 # PAUL S. NEIRINK
-460 W. Canfield Street APT 204 Detroit, MI 48201<br>
-MOBILE: 517.896.0012 <br>
-E-MAIL: <a href="neirinkp@wayne.edu">neirinkp@wayne.edu</a><br>
 	
 <h1>PROFILE </h1>
 <p>Strengths involve managing time, people, and projects in an organized and professional manner. Balanced combination of experience and education reflects a strong service-oriented work ethic. Main area of professional concentration and development centers on the preservation and dissemination of digital assets. Specialized abilities in web design, server &amp; database management, content fomatting and migrations. </p>
 <p><strong>Core competencies:&nbsp; </strong></p>
 <table border="0" cellspacing="0" cellpadding="0" width="750">
   <tr>
-	<td width="250" valign="top"><p>•   <strong>Training &amp; Team building </strong></p></td>
-    <td width="250" valign="top"><p>•	<strong>Project management &amp; Supervision</strong></p></td>
-    <td width="250" valign="top"><p>•	<strong>Reference services </strong></p></td>
+    <td width="250" valign="top"><p><strong>Training &amp; Team building </strong></p></td>
+    <td width="250" valign="top"><p><strong>Project management &amp; Supervision</strong></p></td>
+    <td width="250" valign="top"><p><strong>Reference services </strong></p></td>
   </tr>
   <tr>
-    <td width="250" valign="top"><p>•	<strong>Collection description &amp; Metadata</strong></p></td>
-    <td width="250" valign="top"><p>•	<strong>Digital content management </strong></p></td>
-    <td width="250" valign="top"><p>•	<strong>HTML / CSS </strong></p></td>
+    <td width="250" valign="top"><p><strong>Collection description &amp; Metadata</strong></p></td>
+    <td width="250" valign="top"><p><strong>Digital content management </strong></p></td>
+    <td width="250" valign="top"><p><strong>HTML / CSS </strong></p></td>
   </tr>
   <tr>
-    <td width="250" valign="top"><p>•	<strong>Information literacy instruction </strong></p></td>
-    <td width="250" valign="top"><p>•	<strong>System &amp; Database administration </strong></p></td>
-    <td width="250" valign="top"><p>•	<strong>ArchivesSpace &amp; Archivematica</strong></p></td>
+    <td width="250" valign="top"><p><strong>Information literacy instruction </strong></p></td>
+    <td width="250" valign="top"><p><strong>System &amp; Database administration </strong></p></td>
+    <td width="250" valign="top"><p><strong>ArchivesSpace &amp; Archivematica</strong></p></td>
   </tr>
 </table>
 <h1>EMPLOYMENT </h1>
