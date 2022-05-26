@@ -11,12 +11,12 @@
   </tr>
   <tr>
     <td width="250" valign="top"><p><strong>Collection description &amp; Metadata</strong></p></td>
-    <td width="250" valign="top"><p><strong>Digital content management </strong></p></td>
-    <td width="250" valign="top"><p><strong>HTML / CSS </strong></p></td>
+    <td width="250" valign="top"><p><strong>Digital content management &amp; Digitization</strong></p></td>
+    <td width="250" valign="top"><p><strong>System &amp; Database administration</strong></p></td>
   </tr>
   <tr>
     <td width="250" valign="top"><p><strong>Information literacy instruction </strong></p></td>
-    <td width="250" valign="top"><p><strong>System &amp; Database administration </strong></p></td>
+    <td width="250" valign="top"><p><strong>HTML / CSS / UX </strong></p></td>
     <td width="250" valign="top"><p><strong>ArchivesSpace &amp; Archivematica</strong></p></td>
   </tr>
 </table>
