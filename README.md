@@ -43,6 +43,6 @@
 Michigan Archival Association (<a href="https://miarchivists.wordpress.com">MAA</a>)<br>
 Midwest Archives Conference (<a href="https://www.midwestarchives.org">MAC</a>)<br>
 Michigan Labor History Society (<a href="http://mlhs.wayne.edu">MLHS</a>)<br>
-Society of American Archivists (<a href="https://www2.archivists.org/">SAA 2008—2020</a>)
+Society of American Archivists (<a href="https://www2.archivists.org/">SAA 2008—2020</a>)<br>
 Regional Archival Association Consortium Steering Committee(2023-present)
 </p>
