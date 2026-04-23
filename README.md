@@ -4,7 +4,7 @@
 <p>Strengths involve managing time, people, and projects in an organized and professional manner. Balanced combination of experience and education reflects a strong service-oriented work ethic. Main area of professional concentration and development centers on the preservation and dissemination of digital assets. Specialized abilities in web design, server &amp; database management, content formatting, normalization, and system migrations. </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="750">
-  <caption><p><strong>Core competencies:&nbsp;</p></caption>
+  <caption>Core competencies:&nbsp;</caption>
   <tr>
     <td width="250" valign="top"><p><strong>Training &amp; Team building </strong></p></td>
     <td width="250" valign="top"><p><strong>Project management &amp; Supervision</strong></p></td>
