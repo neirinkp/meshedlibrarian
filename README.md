@@ -3,7 +3,7 @@
 <h1>PROFILE</h1>
 <p>Strengths involve managing time, people, and projects in an organized and professional manner. Balanced combination of experience and education reflects a strong service-oriented work ethic. Main area of professional concentration and development centers on the preservation and dissemination of digital assets. Specialized abilities in web design, server &amp; database management, content formatting, normalization, and system migrations.</p>
 
-<table border="0" cellspacing="0" cellpadding="0" width="750"><caption>Core competencies:&nbsp;</caption>
+<table border="0" cellspacing="0" cellpadding="0" width="750"><caption>Core competencies:</caption>
   <tr>
     <td width="250" valign="top"><p><strong>Training &amp; Team building </strong></p></td>
     <td width="250" valign="top"><p><strong>Project management &amp; Supervision</strong></p></td>
@@ -40,12 +40,13 @@
   <em>Information Science Program</em></p>
 <p>1995-2000 <strong>BA, History</strong>, <em>Michigan State University- College of Arts and Letters </em>
   Cognates (mandatory credits outside the <em>College of Arts and Letters</em>) taken at the <em>Eli Broad College of Business</em></p>
+  
 <h1>Professional affiliations</h1>
 <p>
-Michigan Archival Association (<a href="https://miarchivists.wordpress.com">MAA</a>)<br>
-Midwest Archives Conference (<a href="https://www.midwestarchives.org">MAC</a>)<br>
-Michigan Labor History Society (<a href="http://mlhs.wayne.edu">MLHS</a>)<br>
+Michigan Archival Association (<a href="https://miarchivists.wordpress.com">MAA</a>)<br />
+Midwest Archives Conference (<a href="https://www.midwestarchives.org">MAC</a>)<br />
+Michigan Labor History Society (<a href="http://mlhs.wayne.edu">MLHS</a>)<br />
 NDSA (<a href="https://www.ndsa.org">NDSA</a>)<br />
-Society of American Archivists (<a href="https://www2.archivists.org/">SAA 2008—2020</a>)<br>
+Society of American Archivists (<a href="https://www2.archivists.org/">SAA 2008—2020</a>)<br />
 Regional Archival Association Consortium Steering Committee (2023-present)
 </p>
